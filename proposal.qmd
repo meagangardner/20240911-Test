@@ -1,0 +1,30 @@
+---
+title: Advancing and Exploring Video Annotation and Auto-Annotation Models for Animal Behavior Studies
+author: 'Celine Habashy, Meagan Gardner, Shannon Pflueger, Wanyi (Jessica) Kuo'
+date: 2025/05/09
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    toc-location: right
+editor: source
+execute:
+  echo: false
+  warning: false
+---
+
+# Executive Summary
+
+# Introduction
+
+# Data Science Techniques
+
+## Data
+
+## Pipeline
+
+## Evaluation
+
+## Models
+
+# Timeline
